@@ -4,3 +4,6 @@ Engine/packages/*
 Engine/Debug/*
 Engine/Release/*
 Engine/x64/*
+Engine/ConsoleApplication1/x64/*
+Engine/ConsoleApplication1/Debug/*
+Engine/ConsoleApplication1/Release/*
