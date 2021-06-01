@@ -1,1 +1,6 @@
-.vs/*
+Engine/.vs/*
+*.exe
+Engine/packages/*
+Engine/Debug/*
+Engine/Release/*
+Engine/x64/*
